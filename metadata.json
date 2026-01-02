@@ -1,0 +1,7 @@
+{
+  "name": "E-services Agency",
+  "description": "A professional AI-powered business consultancy website featuring an AI Business Agent and an advanced Prompting System for entrepreneurs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
